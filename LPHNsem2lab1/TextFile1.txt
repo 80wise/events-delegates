@@ -1,0 +1,5 @@
+﻿sweet;mms;2;10;dobronom
+chips;lays;3;9;dobronom
+milkshake;kfc;7;20;kfc
+chicken;kfc;15;13;kfc
+burger;mcDo;10;1;mcDo

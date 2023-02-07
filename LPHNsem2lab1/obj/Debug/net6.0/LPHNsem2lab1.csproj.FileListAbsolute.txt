@@ -1,0 +1,15 @@
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\LPHNsem2lab1\LPHNsem2lab1\bin\Debug\net6.0\LPHNsem2lab1.exe
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\LPHNsem2lab1\LPHNsem2lab1\bin\Debug\net6.0\LPHNsem2lab1.deps.json
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\LPHNsem2lab1\LPHNsem2lab1\bin\Debug\net6.0\LPHNsem2lab1.runtimeconfig.json
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\LPHNsem2lab1\LPHNsem2lab1\bin\Debug\net6.0\LPHNsem2lab1.dll
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\LPHNsem2lab1\LPHNsem2lab1\bin\Debug\net6.0\LPHNsem2lab1.pdb
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\LPHNsem2lab1\LPHNsem2lab1\obj\Debug\net6.0\LPHNsem2lab1.csproj.AssemblyReference.cache
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\LPHNsem2lab1\LPHNsem2lab1\obj\Debug\net6.0\LPHNsem2lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\LPHNsem2lab1\LPHNsem2lab1\obj\Debug\net6.0\LPHNsem2lab1.AssemblyInfoInputs.cache
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\LPHNsem2lab1\LPHNsem2lab1\obj\Debug\net6.0\LPHNsem2lab1.AssemblyInfo.cs
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\LPHNsem2lab1\LPHNsem2lab1\obj\Debug\net6.0\LPHNsem2lab1.csproj.CoreCompileInputs.cache
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\LPHNsem2lab1\LPHNsem2lab1\obj\Debug\net6.0\LPHNsem2lab1.dll
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\LPHNsem2lab1\LPHNsem2lab1\obj\Debug\net6.0\ref\LPHNsem2lab1.dll
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\LPHNsem2lab1\LPHNsem2lab1\obj\Debug\net6.0\LPHNsem2lab1.pdb
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\LPHNsem2lab1\LPHNsem2lab1\obj\Debug\net6.0\LPHNsem2lab1.genruntimeconfig.cache
+D:\ФАИС\ИП-21\ЯПВУ\labsLPHN\LPHNsem2lab1\LPHNsem2lab1\obj\Debug\net6.0\refint\LPHNsem2lab1.dll
